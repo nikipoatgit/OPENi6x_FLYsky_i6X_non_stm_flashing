@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##  Requirements
 
 - USB cable to connect transmitter (generally comes with the Flysky i6X)
@@ -72,4 +71,3 @@ dfu-util -l
 =======
 # OPENi6x_FLYsky_i6X_non_stm_flashing
 Flashing OpenI6X (OpenTX-based firmware) onto the Flysky i6X transmitter using USB DFU mode,DFU flashing instructions, and backup/restore procedures tailored for non-STM-based hardware.
->>>>>>> a2e25fad0344a4062b7031c5273ed028d7507b43
