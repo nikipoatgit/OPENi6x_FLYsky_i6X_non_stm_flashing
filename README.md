@@ -5,7 +5,7 @@
 
 ---
 
-##  Flashing OpenI6X Firmware
+##  Flashing OpenI6X Firmware >> https://github.com/OpenI6X/opentx/releases/
 
 ###  Procedure Overview
 
@@ -57,7 +57,7 @@ dfu-util -l
 ![](back_up_.png)
 ![](optional_bytes.png)
 
-- Flashing firmware
+- Flashing firmware  reffer >> https://github.com/OpenI6X/opentx/releases/
 ```bash
 ./dfu-util.exe -a 0 -d 314b:0106 -s 0x08000000:leave -D "path\to_ur\openi6x.bin"
 ```
